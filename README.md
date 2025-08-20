@@ -10,7 +10,7 @@ A simple **FastAPI project** that demonstrates building APIs for:
 
 - RESTful API with FastAPI  
 - Organized endpoints for **cuisines** and **coupons**  
-- Interactive Swagger UI (`/docs`) for testing  
+- Interactive Swagger UI for testing  
 - Expandable to more cuisines, items, and coupon codes  
 
 ---
