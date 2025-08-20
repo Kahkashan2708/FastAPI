@@ -25,17 +25,17 @@ A simple **FastAPI project** that demonstrates building APIs for:
 
 ##  Project Structure
 ```
-├── main.py # FastAPI application code
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
+├── main.py  # FastAPI application code
+├── requirements.txt  # Project dependencies
+└── README.md  # Project documentation
 ```
 ---
 ## How to Run
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/FastAPI-Food-Coupons.git
-cd FastAPI-Food-Coupons
+git clone https://github.com/Kahkashan2708/FastAPI.git
+cd FastAPI
 ```
 ### 2. Install the Dependencies
 ```bash
@@ -44,8 +44,9 @@ pip install -r requirements.txt
 
 ## API Documenation
 Once the server is running, open your browser at:
-Swagger UI: http://127.0.0.1:8000/docs
-ReDoc: http://127.0.0.1:8000/redoc
+
+- Swagger UI: http://127.0.0.1:8000/docs
+- ReDoc: http://127.0.0.1:8000/redoc
 
 
 ## Future Enhancements
