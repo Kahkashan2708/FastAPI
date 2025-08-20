@@ -1,14 +1,12 @@
-# 🍔 Food & Coupons API
+#  Food & Coupons API
 
 A simple **FastAPI project** that demonstrates building APIs for:
 - Fetching food items by cuisine
 - Fetching discount coupons by code
 
-This project is universal and can run on **any computer** with Python installed 🚀
-
 ---
 
-## ✨ Features
+##  Features
 
 - RESTful API with FastAPI  
 - Organized endpoints for **cuisines** and **coupons**  
@@ -17,7 +15,7 @@ This project is universal and can run on **any computer** with Python installed 
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3.7+**
 - **FastAPI** – web framework
@@ -25,12 +23,13 @@ This project is universal and can run on **any computer** with Python installed 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 ```
 ├── main.py # FastAPI application code
 ├── requirements.txt # Project dependencies
 └── README.md # Project documentation
 ```
+---
 ## How to Run
 
 ### 1. Clone the Repository
@@ -45,15 +44,14 @@ pip install -r requirements.txt
 
 ## API Documenation
 Once the server is running, open your browser at:
-```
 Swagger UI: http://127.0.0.1:8000/docs
 ReDoc: http://127.0.0.1:8000/redoc
-```
+
 
 ## Future Enhancements
-** Add more cuisines and items
-** Add authentication (login/signup)
-** Connect to a real database
-** Add coupon expiration dates
+* Add more cuisines and items
+* Add authentication (login/signup)
+* Connect to a real database
+* Add coupon expiration dates
 
 
